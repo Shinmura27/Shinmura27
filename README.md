@@ -21,7 +21,7 @@
 - 🌍 Country 🇮🇩
 - 🌐 [About My Project](https://t.me/FractureArchive)
 - 📫 [Instagram](https://www.instagram.com/cincau.exe/) | [Telegram](https://t.me/CincauEXE)
-- 🎼 [ラブレター](https://music.youtube.com/watch?v=Wxy0fBsfh_0&list=RDAMVMWxy0fBsfh_0)
+- 🎼 [Yoasobi-ラブレター](https://music.youtube.com/watch?v=Wxy0fBsfh_0&list=RDAMVMWxy0fBsfh_0)
 - 🎮 [Mobile Legends: Bang Bang](https://m.mobilelegends.com/id)
 - 📱 Android User
 - 🎉 Aug 27, 2005
