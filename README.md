@@ -22,7 +22,7 @@
 - 🌐 [About My Project](https://t.me/FractureArchive)
 - 📫 [Instagram](https://www.instagram.com/cincau.exe/) | [Telegram](https://t.me/CincauEXE)
 - 🎼 [Yoasobi-ラブレター](https://music.youtube.com/watch?v=Wxy0fBsfh_0&list=RDAMVMWxy0fBsfh_0)
-- 🎮 [Mobile Legends: Bang Bang](https://m.mobilelegends.com/id)
+- 🎮 [Arknights](https://www.arknights.global/)
 - 📱 Android User
 - 🎉 Aug 27, 2005
 	
