@@ -1,43 +1,42 @@
-<!-- Your title -->
-## Hi There, I'm Ariel! Welcome to My GitHub profile. 👋 Nice to meet you.
+<div style="border: 10px solid #4CAF50; border-radius: 55px; overflow: hidden;">
+  <img src="https://github.com/CincauEXE/CincauEXE/raw/main/banner.png" alt="Banner Image" width="100%">
+</div>
 
----
+# Shinka Murayama
 
-<p align="center">
-  <img src="https://github.com/CincauEXE/CincauEXE/raw/main/banner.png" style="border-radius: 20px;"><br>
-</p>
+<!-- Add an introduction about yourself -->
 
----
+## About Me
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cincauexe&label=Profile%20views&color=0e75b6&style=flat" alt="cincauexe" /> </p>
-<p align="center">
-<a href="https://github.com/CincauEXE"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://arielgemmezz.27@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+I am a passionate developer with a strong interest in Music. I love to build something that looks fun, and I'm always looking for new challenges and opportunities to learn.
 
----
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+## Companions
 
-- 🌍 Country 🇮🇩
-- 🌐 [About My Project](https://t.me/FractureArchive)
-- 📫 [Instagram](https://www.instagram.com/shinkafuu/) | [Telegram](https://t.me/Shinmura27)
-- 🎼 [Yoasobi-ラブレター](https://music.youtube.com/watch?v=Wxy0fBsfh_0&list=RDAMVMWxy0fBsfh_0)
-- 🎮 [Arknights](https://www.arknights.global/)
-- 📱 Android User
-- 🎉 Aug 27, 2005
-	
----
+### Lyricia Rande Lorien
 
-<details>
-    <summary>&#127942 <b>GitHub Stats</b></summary><br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cincauexe&show_icons=true&theme=aura" alt="Ariel Github Stats">
+[![Comp 1](project1_image_url)]
 
-</details>
+### Cherly
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+[![Comp 2](project2_image_url)]
 
-![Metrics](https://metrics.lecoq.io/cincauexe?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+### More Soon
 
----
+## Skills
+
+- Programming Languages: Still learning some programming language like CSS, JavaScript, HTML, C++, etc
+
+## Contact Me
+
+- Email: [Your Email](mailto:your.email@example.com)
+- Portfolio: [Your Portfolio Website](Your_Portfolio_Website_Link)
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cincauexe&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cincauexe&layout=compact)
+
+## Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/cincauexe/count.svg)
