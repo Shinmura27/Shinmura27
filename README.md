@@ -1,7 +1,7 @@
 <div style="border: 10px solid #4CAF50; border-radius: 55px; overflow: hidden;">
   <img src="https://github.com/CincauEXE/CincauEXE/raw/main/banner.png" alt="Banner Image" width="100%">
 </div>
-
+  
 # Shinka Murayama
 
 <!-- Add an introduction about yourself -->
@@ -30,13 +30,16 @@ I am a passionate developer with a strong interest in Music. I love to build som
 
 - Email: [Your Email](mailto:your.email@example.com)
 - Portfolio: [Your Portfolio Website](Your_Portfolio_Website_Link)
+</div>
 
 ## Stats
 
+<div style="text-align: center;">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cincauexe&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cincauexe&layout=compact)
-
+</div>
 ## Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/cincauexe/count.svg)
