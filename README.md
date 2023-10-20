@@ -4,7 +4,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/CincauEXE/CincauEXE/raw/main/banner.png"><br>
+  <img src="https://github.com/CincauEXE/CincauEXE/raw/main/banner.png"
+style="border-radius: 10px;"><br>
 </p>
 
 ---
