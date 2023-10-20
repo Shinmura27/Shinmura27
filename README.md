@@ -20,7 +20,7 @@
 
 - 🌍 Country 🇮🇩
 - 🌐 [About My Project](https://t.me/FractureArchive)
-- 📫 [Instagram](https://www.instagram.com/cincau.exe/) | [Telegram](https://t.me/CincauEXE)
+- 📫 [Instagram](https://www.instagram.com/shinkafuu/) | [Telegram](https://t.me/Shinmura27)
 - 🎼 [Yoasobi-ラブレター](https://music.youtube.com/watch?v=Wxy0fBsfh_0&list=RDAMVMWxy0fBsfh_0)
 - 🎮 [Arknights](https://www.arknights.global/)
 - 📱 Android User
