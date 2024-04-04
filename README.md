@@ -36,9 +36,9 @@ I am a passionate developer with a strong interest in Music. I love to build som
 
 <div style="text-align: center;">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cincauexe&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shinmura27&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cincauexe&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinmura27&layout=compact)
 </div>
 ## Visitors
 
